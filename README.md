@@ -21,3 +21,13 @@ The training set consists of 28,709 examples.
 
 The test set consists of 3,589 examples.
 
+# Models Used
+Emotion Recognition using CNN
+
+Emotion Recognition using Nearest Neighbor
+
+Emotion Recognition using Random Forest
+
+# Result
+The accuracy for the CNN Model is high as compared to Random Forest and Nearest Neighbor.
+
